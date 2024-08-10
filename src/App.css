@@ -7,7 +7,7 @@ body {
 
 .grouping-options {
   background: #fff;
-  padding: 10px 80px;
+  padding: 10px 25px;
   text-align: left;
   margin-bottom: 20px;
 }
@@ -17,12 +17,12 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   width: 100%;
-  padding: 0 70px;
+  padding: 0 20px;
     box-sizing: border-box;
 }
 
 .column {
-  margin: 0 10px 20px;
+  margin: 0 5px 20px;
   display: flex;
   flex-direction: column;
   flex-basis: 100%;
@@ -30,7 +30,7 @@ body {
 }
 
 .card {
-  padding: 20px;
+  padding: 10px 20px;
   line-height: 1.42857143;
   background-color: #fff;
   border: 1px solid #d8d8d8;
