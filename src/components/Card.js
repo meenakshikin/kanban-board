@@ -12,7 +12,7 @@ const Card = ({ id, item, index, groupBy }) => {
                             <span className='avatar_status'></span>
                         </div>
                     }
-                    
+
                 </div>
 
                 <div className='card_body'>
@@ -21,7 +21,7 @@ const Card = ({ id, item, index, groupBy }) => {
                         <button className='feature_btn'></button>
                         <div className='feature_request'>
                             <span className='feature_status'></span>
-                            {item.tag.length && <p className='title pl20'>{item.tag}</p>}
+                            {item.tag.length && <p className='title pl15'>{item.tag}</p>}
                         </div>
                     </div>
                 </div>
